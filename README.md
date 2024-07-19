@@ -28,7 +28,7 @@ To get a copy of the project up and running on your local machine for developmen
 
 1. Clone the repository: `git clone https://github.com/tokhy1/TailwindCss_Manage_Landing.git`
 2. Install dependencies: `npm install`
-3. Compile sass code: `npm run tw:watch`
+3. Compile code: `npm run tw:watch`
 
 
 ## Contributing:
